@@ -36,4 +36,5 @@ open another tab and
 $ npm start
 ```
 go to [http://localhost:3000](http://localhost:3000) and make sure you see `dope`, which is rendered via react
-# react-devise
+
+user authentication built following instruction at https://labs.chiedo.com/blog/authenticating-your-reactjs-app-with-devise-no-extra-gems-needed/
